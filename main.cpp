@@ -203,7 +203,7 @@ int main()
             return 0;
             break;
         default:
-            cout << "invalid number\n";
+            cout << "invalid number  (my changes)\n";
             break;
         }
     }
